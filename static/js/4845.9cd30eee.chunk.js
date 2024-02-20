@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktp=self.webpackChunktp||[]).push([[4845],{4845:(e,o,i)=>{i.d(o,{bounce:()=>c});var l=i(4409);const n=e=>{void 0===e.collisionMaxSpeed&&(e.collisionMaxSpeed=(0,l.VG)(e.options.collisions.maxSpeed)),e.velocity.length>e.collisionMaxSpeed&&(e.velocity.length=e.collisionMaxSpeed)};function c(e,o){(0,l.pE)((0,l.Tg)(e),(0,l.Tg)(o)),n(e),n(o)}}}]);
+//# sourceMappingURL=4845.9cd30eee.chunk.js.map
